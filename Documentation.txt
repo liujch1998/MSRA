@@ -1,0 +1,27 @@
+Documentation
+
+一、总述
+
+
+二、背景
+
+
+三、功能
+
+
+四、实现
+Visual Studio
+
+五、项目管理&版本控制
+1. 任务进度记录表
+
+
+六、时间线与分工
+stage 1 筛选合影&个人影像
+LJC 核心
+SKY 接口
+WYH 学习C#&图形界面
+stage 2-1 照片旋正 待定
+stage 2-2 删除重复&删除模糊 待定
+stage 2-3 社交平台分享 WYH
+stage 3 自动P图
